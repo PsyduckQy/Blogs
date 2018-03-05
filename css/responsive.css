@@ -1,0 +1,236 @@
+
+@media (max-width: 1199px) {
+    #over-map {
+        top:inherit;
+    }
+    .bx-viewport li.col-lg-3 {
+        width: 310px!important
+    }
+    .container {
+        width: 99%
+    }
+    .extra-features ul li h5 {
+        font-size: 19px;
+    }
+     footer {
+        height: 700px;
+        margin-top: -700px;
+    }
+    #map {
+        /*height: 700px;*/
+    }
+    footer .sidebar aside {
+        padding-left: 0px;
+        margin-bottom: 0px;
+    }
+}
+@media (max-width: 1300px) {
+    footer.site-footer .sidebar aside {
+        clear: both;
+        width: 100%;
+        margin-bottom: 0px;
+        padding-left: 0px;
+    }
+}
+@media (min-width: 521px) and (max-width: 1300px) {
+    
+    .extra-features ul li span {
+        font-size: 23px;
+        line-height: 30px
+    }
+    .extra-features ul li
+     {
+        font-size: 16px;
+        line-height: 22px
+    }
+}
+@media (max-width: 992px) {
+    
+    
+    .lower-footer .love {
+        display: none;
+    }
+    .extra-features ul li i {
+        clear: both;
+        padding: 5px 10px
+    }
+    .extra-features ul li {
+        text-align: center
+    }
+    .extra-features ul li h5 {
+        width: 100%;
+        padding: 5px 10px
+    }
+    .features-list {
+        margin-left: 0;
+        margin-top: 30px
+    }
+    .bx-viewport li.col-lg-3 {
+        /*width: 350px!important*/
+    }
+    .image-holder {
+        margin: 20px auto
+    }
+    .pricing-table.test1 {
+        margin-left: 0
+    }
+    .pricing-table.test2 {
+        margin-right: 0
+    }
+    .pricing-table {
+        width: 80%;
+        margin: 50px auto!important
+    }
+}
+
+@media (max-width: 520px) {
+    .extra-features ul li span {
+        font-size: 18px;
+        line-height: 25px
+    }
+    .extra-features ul li,
+    .extra-features ul li h5 {
+        font-size: 15px;
+        line-height: 20px
+    }
+    .latest-product .image-holder {
+        background-size: 70%;
+        background-position: center center;
+    }
+    .latest-product .image-mask {
+         height: 250px;
+        margin: 0 auto;
+        overflow: hidden;
+        padding-top: 55px;
+        width: 299px;
+        margin-left: 95px;
+    }
+    .ribbon {
+        height: 120px;
+        left: 120px;
+        overflow: hidden;
+        position: absolute;
+        top: 47px;
+        width: 120px;
+    }
+}
+@media (max-width: 768px) {
+    .extra-features ul li {
+        min-height: 90px;
+    }
+    .bx-viewport li.col-lg-3 {
+        width: 360px!important
+    }
+    .navbar-nav {
+        float: none;
+        width: 100%
+    }
+    nav.navbar {
+        background: rgba(0, 0, 0, .7)
+    }
+    .dropdown-toggle i {
+        display: block;
+        float: right;
+        font-size: 15px
+    }
+    .fa-angle-double-right:before {
+        content: "\f196"!important
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+        color: #fff
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a:focus,
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover {
+        color: #fff;
+        opacity: .7
+    }
+    .navbar-default .navbar-nav>.open>a,
+    .navbar-default .navbar-nav>.open>a:focus,
+    .navbar-default .navbar-nav>.open>a:hover {
+        background-color: transparent;
+        color: inherit
+    }
+    .features-list li>div {
+        width: 75%
+    }
+}
+@media (max-width: 621px) {
+    .features-list li>div {
+        width: 70%
+    }
+    .cart {
+        right: 15%!important
+    }
+    .latest-product .col-lg-6:last-of-type {
+        padding-left: 0px;
+    }
+    .section-description {
+        text-align: center;
+    }
+}
+@media (max-width: 480px) {
+    .extra-features ul li > div {
+        width: 100%;
+    }
+    .extra-features ul li i {
+        margin:10px auto;
+    }
+    .extra-features ul li:hover i {
+        font-size: 30px
+    }
+    .main-features {
+        text-align: center
+    }
+    .features-list li>div {
+        width: 100%;
+        padding-right: 0
+    }
+    .features-list li i {
+        float: none;
+        margin: 0 auto 20px
+    }
+}
+@media (max-width: 950px) {
+    .navbar-header {
+        float: none
+    }
+    .navbar-toggle {
+        display: block
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1)
+    }
+    .navbar-collapse.collapse {
+        display: none!important
+    }
+    .navbar-nav {
+        float: none!important;
+        margin: 7.5px -15px
+    }
+    .navbar-nav>li {
+        float: none
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px
+    }
+    .navbar-collapse.collapse.in {
+        display: block!important
+    }
+    .collapsing {
+        overflow: hidden!important
+    }
+    .cart {
+        right: 10%;
+        top: 17px
+    }
+}
+
+@media (max-width: 1030px) {
+    .extra-features ul li > div {
+        font-size: 16px;
+        line-height: 18px;
+    }
+}
+

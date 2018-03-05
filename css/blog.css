@@ -1,0 +1,92 @@
+ #sc_our_services .sc_service .sc_service_name a {
+     color: #178DC4;
+ }
+ 
+ #sc_our_services .sc_service .sc_service_name a {
+     font-size: 24px;
+ }
+
+.jumbotron {
+            background-color: transparent;
+            background-repeat: repeat;
+            background-size: cover;
+            background-attachment: fixed;
+            background-position: left top;
+        }
+        
+        .testimonials {
+            background-color: transparent;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-attachment: fixed;
+            background-position: center top;
+        }
+        
+        .team {
+            background-color: transparent;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-attachment: fixed;
+            background-position: center top;
+        }
+        
+        .second-cta {
+            background-color: transparent;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-attachment: fixed;
+            background-position: center top;
+        }
+        
+        body {
+            font-family: Lato;
+            line-height: 24px;
+            font-weight: 400;
+            font-style: normal;
+            color: #383838;
+            font-size: 15px;
+        }
+        
+        .features-list .col-lg-4:hover > div h4,
+        .latest-product ul li i,
+        .sticky header h1 a:hover,
+        .latest-product .section-title a:hover,
+        dt,
+        cite,
+        footer ul li:before,
+        footer .sidebar aside a:hover,
+        .subtotal,
+        .edd-cart-quantity,
+        .navbar-default .navbar-brand:hover,
+        .navbar-default .navbar-brand:focus,
+        .cart a:hover,
+        a,
+        a:visited,
+        a:focus,
+        .store-pagination a:hover,
+        .navbar-default .navbar-nav > .open > a,
+        .navbar-default .navbar-nav > .active > a,
+        .navbar-default .navbar-nav > .active > a,
+        .navbar-default .navbar-nav > .active > a:hover,
+        .navbar-default .navbar-nav > .active > a:focus,
+        .navbar-default .navbar-nav > li > a:hover,
+        .navbar-default .navbar-nav > li > a:focus,
+        .product-desc div.price,
+        .navbar-default .navbar-nav > .open > a,
+        .navbar-default .navbar-nav > .open > a:hover,
+        .navbar-default .navbar-nav > .open > a:focus,
+        .cart i,
+        .other-products .product-desc h3 a:hover {
+            color: #178dc4;
+        }
+        
+        .cart_item.edd_checkout a,
+        .edd-submit.button.blue,
+        .secondcolor,
+        .bxslider-team li ul li a,
+        footer,
+        .scroll-top-wrapper,
+        .ribbon a:hover,
+        .cart {
+            background-color: #313545;
+        }
